@@ -47,6 +47,5 @@ fn group_values_by_key(vec: Vec<(String,i32)>) -> HashMap<String,i32>{
        map.insert(key,val+1);
     };
     return map;
-
 }
 
