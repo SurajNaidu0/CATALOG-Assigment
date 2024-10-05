@@ -95,6 +95,7 @@ impl Server {
 
 }
 fn main() {
-
+    println!("Raft Implemented using rust");
+    println!("If it compiles in rust trust it will run ");
 
 }
